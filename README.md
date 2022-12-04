@@ -13,5 +13,5 @@ A simple home project of Automated weighing machine using Arduino Uno and HX711 
   3. [Keypad](https://www.arduinolibraries.info/libraries/keypad) by Mark Stanley, Alexander Brevig
 2. Download this code in zip file or directly clone this repo to your local machine.
 3. Upload and run 'Calibration' code file to your Arduino to calibrate HX711 loadcell.
-4. `Important:`After successfull calibration, update 'Loadcell' file with your obtained 
+4. `Important:`After successfull calibration, update 'Loadcell' file with your obtained value of 'calibration factor'.
 5. Upload mdified 'Loadcell' program to your Arduino and your weighing machine is complete.
