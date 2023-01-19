@@ -16,6 +16,7 @@ A simple home project of Automated weighing machine using Arduino Uno and HX711 
 - Relay (output)
 >pin 14
 - All 5V and GND pins(from cell, relay etc.) combined to 5V and GND of arduino respectively.  
+
 `Note:` You can change pin configurations according to your need. Just remember to change values in Loadcell file.
 
 ## Installation
